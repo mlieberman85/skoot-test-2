@@ -1,0 +1,18 @@
+contribution-policy:
+  accepts-automated-pull-requests: true
+  accepts-pull-requests: true
+distribution-points: []
+header:
+  expiration-date: 2025-02-15T05:51:56.937125770Z
+  last-reviewed: 2024-02-16T05:51:56.937129076Z
+  last-updated: 2024-02-16T05:51:56.937129276Z
+  license: https://github.com/mlieberman85/skoot-test-2/blob/main/LICENSE
+  project-url: https://github.com/mlieberman85/skoot-test-2
+  schema-version: 1.0.0
+project-lifecycle:
+  bug-fixes-only: false
+  status: active
+security-contacts: []
+vulnerability-reporting:
+  accepts-vulnerability-reports: true
+  security-policy: https://github.com/mlieberman85/skoot-test-2/blob/main/SECURITY.md
